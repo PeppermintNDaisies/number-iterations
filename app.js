@@ -83,6 +83,5 @@ const allRowUpdated = cell =>{
 }
 // FUNCTION SIGNATURE ENDS
 
-console.log(minimumIterations([[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,1]], 1, 0))
 
 module.exports = minimumIterations;

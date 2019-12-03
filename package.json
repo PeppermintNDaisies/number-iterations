@@ -1,0 +1,24 @@
+{
+  "name": "number-iterations",
+  "version": "1.0.0",
+  "description": "Determine the minumum number of iterations required to fill matrix.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeppermintNDaisies/number-iterations.git"
+  },
+  "keywords": [
+    "minimumIterations",
+    "recursion"
+  ],
+  "author": "Juliana Jaime J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeppermintNDaisies/number-iterations/issues"
+  },
+  "homepage": "https://github.com/PeppermintNDaisies/number-iterations#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
